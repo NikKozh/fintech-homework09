@@ -7,7 +7,7 @@ import cats.implicits._
 import scala.concurrent.duration._
 
 import scala.concurrent.Await
-import ru.tinkoff.fintech.homework09.answers.monix.{Worker => AWorker}
+// import ru.tinkoff.fintech.homework09.answers.monix.{Worker => AWorker}
 
 
 object Runner extends App {

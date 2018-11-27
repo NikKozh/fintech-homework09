@@ -5,7 +5,7 @@ import monix.execution.AsyncQueue
 import monix.execution.Scheduler.Implicits.global
 import cats.implicits._
 import scala.concurrent.duration._
-import ru.tinkoff.fintech.homework09.answers.monix.{Worker => AWorker}
+// import ru.tinkoff.fintech.homework09.answers.monix.{Worker => AWorker}
 
 trait Manager {
   self: Worker =>
